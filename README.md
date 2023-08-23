@@ -1,7 +1,10 @@
-- 👋 Hi, I’m @XhovaniM8
-- 🌱 I’m currently learning web development!
-- 💞️ I’m looking to collaborate on anything.
-- 📫 How to reach me: message me on LinkedIn!
+👋 Hello there, I'm @XhovaniM8!
+
+🚀 Currently diving deep into web development.
+
+💡 Eager to collaborate on interesting projects.
+
+🔗 Connect with me on [LinkedIn]([xhovanim8](https://www.linkedin.com/in/xhovanimali/))!
 
 <!---
 XhovaniM8/XhovaniM8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
