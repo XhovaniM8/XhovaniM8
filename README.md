@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @XhovaniM8
-- 🌱 I’m currently learning C++, Verilog, and other low-level stuff
+- 🌱 I’m currently learning web development!
 - 💞️ I’m looking to collaborate on anything.
 - 📫 How to reach me: message me on LinkedIn!
 
