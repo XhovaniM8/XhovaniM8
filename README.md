@@ -1,6 +1,6 @@
 👋 Hello there, I'm @XhovaniM8!
 
-🚀 Currently diving deep into web development.
+🚀 Currently diving into Web Development & Electronics & FPGA
 
 💡 Eager to collaborate on interesting projects.
 
