@@ -4,7 +4,7 @@
 
 💡 Eager to collaborate on interesting projects.
 
-🔗 Connect with me on [LinkedIn]([xhovanim8](https://www.linkedin.com/in/xhovanimali/))!
+🔗 Connect with me on [LinkedIn]([xhovanim8](https://www.linkedin.com/in/xhovanimali/1)!
 
 <!---
 XhovaniM8/XhovaniM8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
