@@ -1,10 +1,26 @@
-👋 Hello there, I'm @XhovaniM8!
+# 👋 Hi, I'm Xhovani Mali (@XhovaniM8)
 
-🚀 Currently diving into Web Development & Electronics & FPGA
+🔬 Computer Engineering | Embedded Systems | FPGA Development
 
-💡 Eager to collaborate on interesting projects.
+🚀 Currently building real-time systems for financial trading and high-performance embedded applications.
 
-🔗 Connect with me on [Linkedin](https://www.linkedin.com/in/xhovanimali/1)!
+💻 Focus Areas:
+- FPGA-accelerated machine learning (LSTM for order book analysis)
+- Embedded systems (STM32, Verilog, C++)
+- Real-time data processing (Python, C++)
+- Systems reliability, automation, and optimization
+
+📈 Passionate about creating fast, efficient, and resilient systems.
+
+🤝 Open to collaborations on:
+- Hardware-accelerated computing
+- Embedded AI
+- Real-time financial systems
+- Open-source FPGA tools
+
+🔗 Let's connect: [LinkedIn](https://www.linkedin.com/in/xhovanimali/)
+
+---
 
 <!---
 XhovaniM8/XhovaniM8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
