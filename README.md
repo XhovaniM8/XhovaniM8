@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Xhovani Mali (@XhovaniM8)
 
-🔬 Computer Engineering | Embedded Systems | FPGA Development
+Computer Engineering | Embedded Systems | FPGA Development
 
-🚀 Currently building real-time systems for financial trading and high-performance embedded applications.
+I have a M.S. in ECE
 
 💻 Focus Areas:
 - FPGA-accelerated machine learning (LSTM for order book analysis)
@@ -10,9 +10,7 @@
 - Real-time data processing (Python, C++)
 - Systems reliability, automation, and optimization
 
-📈 Passionate about creating fast, efficient, and resilient systems.
-
-🤝 Open to collaborations on:
+Open to collaborations on:
 - Hardware-accelerated computing
 - Embedded AI
 - Real-time financial systems
