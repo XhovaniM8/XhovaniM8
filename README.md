@@ -7,20 +7,17 @@ Computer Engineering | Embedded Systems | FPGA Development
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XhovaniM8&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 [![Xhovani's GitHub stats](https://github-readme-stats.vercel.app/api?username=XhovaniM8&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-
-I have a M.S. in ECE
-
-💻 Focus Areas:
-- FPGA-accelerated machine learning (LSTM for order book analysis)
-- Embedded systems (STM32, Verilog, C++)
-- Real-time data processing (Python, C++)
-- Systems reliability, automation, and optimization
+I have a M.S. in ECE and a B.S. in ECET.
 
 Open to collaborations on:
 - Hardware-accelerated computing
 - Embedded AI
 - Real-time financial systems
 - Open-source FPGA tools
+- Deisgn
+- Data Analysis
+- Optimization
+- Anything else, just shoot me a DM. 
 
 🔗 Let's connect: [LinkedIn](https://www.linkedin.com/in/xhovanimali/)
 
