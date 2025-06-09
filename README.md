@@ -19,7 +19,7 @@ Open to collaborations on:
 - Optimization
 - Anything else, just shoot me a DM. 
 
-LinkedIn: [LinkedIn](https://www.linkedin.com/in/xhovanimali/)
+[LinkedIn](https://www.linkedin.com/in/xhovanimali/)
 
 ---
 
