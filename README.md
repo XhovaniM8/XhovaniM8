@@ -1,8 +1,8 @@
-# 👋 Hi, I'm Xhovani Mali (@XhovaniM8)
+# I'm Xhovani Mali (@XhovaniM8)
 
-Computer Engineering | Embedded Systems | FPGA Development
+Computer Engineering | Embedded Systems | FPGA Development | And some more...
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XhovaniM8&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 [![Xhovani's GitHub stats](https://github-readme-stats.vercel.app/api?username=XhovaniM8&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
@@ -19,7 +19,7 @@ Open to collaborations on:
 - Optimization
 - Anything else, just shoot me a DM. 
 
-🔗 Let's connect: [LinkedIn](https://www.linkedin.com/in/xhovanimali/)
+LinkedIn: [LinkedIn](https://www.linkedin.com/in/xhovanimali/)
 
 ---
 
