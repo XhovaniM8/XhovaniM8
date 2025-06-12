@@ -14,7 +14,7 @@ Open to collaborations on:
 - Embedded AI
 - Real-time financial systems
 - Open-source FPGA tools
-- Deisgn
+- System Design
 - Data Analysis
 - Optimization
 - Anything else, just shoot me a DM. 
