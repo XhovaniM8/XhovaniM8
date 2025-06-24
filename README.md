@@ -1,6 +1,5 @@
 # I'm Xhovani Mali (@XhovaniM8)
-
-Computer Engineering | Embedded Systems | FPGA Development | And some more...
+Computer Engineering | Embedded Systems | FPGA Development | System Optimization
 
 ### GitHub Stats
 
