@@ -3,7 +3,7 @@ Computer Engineering | Embedded Systems | FPGA Development | System Optimization
 
 ### GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XhovaniM88&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XhovaniM8&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 [![Xhovani's GitHub stats](https://github-readme-stats.vercel.app/api?username=XhovaniM8&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 I have a M.S. in ECE and a B.S. in ECET.
