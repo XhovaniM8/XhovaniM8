@@ -3,9 +3,7 @@ Computer Engineering | Embedded Systems | FPGA Development | System Optimization
 
 ### GitHub Stats
 
-![image](https://github.com/user-attachments/assets/6da77a42-bd01-4202-b161-71faf0922055)
-![image](https://github.com/user-attachments/assets/76bafd11-6e54-44df-9d45-2a6b1d29d6ca)
-![image](https://github.com/user-attachments/assets/e34612bc-39c9-4a17-9c82-c8c115233930)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=XhovaniM8)](https://git.io/streak-stats)
 
 
 I have a M.S. in ECE and a B.S. in ECET.
