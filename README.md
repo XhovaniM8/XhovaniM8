@@ -5,7 +5,6 @@ Computer Engineering | Embedded Systems | FPGA Development | System Optimization
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=XhovaniM8)](https://git.io/streak-stats)
 
-
 I have a M.S. in ECE and a B.S. in ECET.
 
 Open to collaborations on:
