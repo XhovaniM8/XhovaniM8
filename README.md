@@ -3,8 +3,7 @@ Computer Engineering | Embedded Systems | FPGA Development | System Optimization
 
 ### GitHub Stats
 
-![](https://raw.githubusercontent.com/XhovaniM8/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/XhovaniM8/github-stats/master/generated/overview.svg#gh-light-mode-only)
+![Github Stats](https://raw.githubusercontent.com/XhovaniM8/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 
 I have a M.S. in ECE and a B.S. in ECET.
 
