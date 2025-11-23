@@ -1,10 +1,6 @@
 # I'm Xhovani Mali (@XhovaniM8)
 Computer Engineering | Embedded Systems | FPGA Development | System Optimization
 
-### GitHub Stats
-
-![Xhovani's GitHub stats](https://github-readme-stats.vercel.app/api?username=XhovaniM8&show_icons=true&theme=dracula)
-
 I have a M.S. in ECE and a B.S. in ECET.
 
 Open to collaborations on:
